@@ -9,6 +9,7 @@ Using Bayesian estimation, we can A/B test this hypothesis, by comparing two tre
 
 Bayesian statistics are an excellent tool to reach for when sample sizes are small, as we can introduce explicit assumptions into the model, when there aren't thousands of observations.
 
-<img src="reg_season.svg" class="img-responsive">
+<img src="images/reg_season.svg" class="img-responsive">
 
-<img src="playoffs.svg" class="img-responsive">
+<img src="images/playoffs.svg" class="img-responsive">
+
